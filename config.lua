@@ -5,12 +5,12 @@ Config = {}
 ------------------------------------------------------------------------------------------------
 
 -- Title [Example: Your RP Server Name]
-Config.title = 'United Freedom'
+Config.title = 'My Life Be Like'
 
 ------------------------------------------------------------------------------------------------
 
 -- Subtitle [Example: Your RP Server Website]
-Config.subtitle = 'unitedfreedomgaming.com' -- Leave blank if you don't want a subtitle.
+Config.subtitle = 'Bester Server EU-West' -- Leave blank if you don't want a subtitle.
 
 ------------------------------------------------------------------------------------------------
 
